@@ -1,0 +1,7 @@
+v 4
+file . "PC.vhd" "6d31709377b14d8304d4405bd8bb1d77968992f2" "20230216190337.814":
+  entity pc_logic at 16( 604) + 0 on 69;
+  architecture rtl of pc_logic at 28( 830) + 0 on 70;
+file . "pc_tb.vhd" "742f58de08b380cadec3f6adc19db288f5a93bb0" "20230216190337.905":
+  entity pc_logic_tb at 1( 0) + 0 on 71;
+  architecture sim of pc_logic_tb at 11( 154) + 0 on 72;
